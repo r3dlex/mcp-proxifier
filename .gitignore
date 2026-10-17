@@ -1,0 +1,4 @@
+# oh-my-claudecode runtime state
+.omc/state/
+.omc/sessions/
+.omc/*.json
